@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=250&section=header&text=Krishnagadha&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=250&section=header&text=Krishnagadha&fontSize=70&fontColor=000000&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=MCA+Student;Frontend+Developer;Full+Stack+Developer+in+Progress;React.js+Learner;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=MCA+Student;Frontend+Developer;Full+Stack+Developer+in+Progress;React.js+Learner;Building+Modern+Web+Applications"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=100&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=100&section=header&text=Tech%20Stack&fontSize=40&fontColor=000000"/>
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=90&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=90&section=header&text=GitHub%20Stats&fontSize=35&fontColor=000000"/>
 
 <br>
 
