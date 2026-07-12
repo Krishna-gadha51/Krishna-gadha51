@@ -1,14 +1,27 @@
-# Hi, I'm Krishnagadha 👋✨
+<div align="center">
 
-🎓 MCA Student at FISAT  
-💻 Aspiring Full Stack Developer  
-🌱 Currently learning React.js and Web Development  
-🚀 Interested in building responsive and user-friendly applications  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Krishnagadha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<h3>FULL STACK DEVELOPER</h3>
+
+<p>
+Scalable Frontends • AI-assisted Systems • Modern Web Applications
+</p>
+
+</div>
 
 
-## 🌐 Connect With Me:
+## 👨‍💻 About Me
 
-<p align="center">
+- 🎓 MCA Student at FISAT
+- 💻 Learning React.js and Full Stack Development
+- 🚀 Building web applications and improving my coding skills
+- 🌱 Exploring modern technologies and creating projects
+
+
+<div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://instagram.com/gadha_u.g">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -22,13 +35,16 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 
-# 💻 Tech Stack:
+<div align="center">
 
-<p align="center">
+## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github&perline=6&size=45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=6&theme=dark" />
 
-</p>
+</div>
+
+
+<div align="center">
