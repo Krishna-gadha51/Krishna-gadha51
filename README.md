@@ -11,22 +11,9 @@
 
 <div align="center">
 
-## 👩‍💻 About Me
-
-🎓 MCA Student at FISAT  
-💻 Learning Full Stack Development  
-⚛️ Exploring React.js  
-🚀 Building Modern Web Applications  
-
-</div>
 
 
-<br>
-
-
-<div align="center">
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://instagram.com/gadha_u.g">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -78,7 +65,7 @@
 
 <div align="center">
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white"/>
 
@@ -89,21 +76,4 @@
 </div>
 
 
-<br>
 
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
-
-</div>
