@@ -1,22 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Krishnagadha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Krishnagadha&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
 <h3>FULL STACK DEVELOPER</h3>
 
 <p>
-Scalable Frontends • AI-assisted Systems • Modern Web Applications
+MCA Student • Frontend Developer • Full-Stack Enthusiast
 </p>
 
 </div>
 
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student at FISAT
-- 💻 Learning React.js and Full Stack Development
-- 🚀 Building web applications and improving my coding skills
-- 🌱 Exploring modern technologies and creating projects
+</div>
+
+<div align="center">
+
+🎓 MCA Student passionate about software development  
+<br>
+💻 Learning React.js and Full Stack Development  
+<br>
+🚀 Building web applications and improving my coding skills  
+<br>
+🌱 Exploring modern technologies and creating projects  
+
+</div>
 
 
 <div align="center">
@@ -42,9 +53,13 @@ Scalable Frontends • AI-assisted Systems • Modern Web Applications
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=6&size=50&theme=dark"/>
 
 </div>
 
 
 <div align="center">
+
+### 🚀 Learning • Building • Growing
+
+</div>
