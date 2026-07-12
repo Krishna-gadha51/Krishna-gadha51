@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Krishnagadha&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishnagadha&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
-<h3>FULL STACK DEVELOPER</h3>
-
-<p>
-MCA Student • Frontend Developer • Full-Stack Enthusiast
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MCA+Student;Frontend+Developer;Full+Stack+Developer+in+Progress;React.js+Learner;Building+Modern+Web+Applications"/>
 
 </div>
 
@@ -30,6 +26,8 @@ MCA Student • Frontend Developer • Full-Stack Enthusiast
 </div>
 
 
+<br>
+
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -49,17 +47,41 @@ MCA Student • Frontend Developer • Full-Stack Enthusiast
 </div>
 
 
+<br>
+
 <div align="center">
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=6&size=50&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=7&theme=dark"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
 
 <div align="center">
 
-### 🚀 Learning • Building • Growing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
