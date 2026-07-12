@@ -9,28 +9,8 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
 
-</div>
-
-<div align="center">
-
-🎓 MCA Student passionate about software development  
-<br>
-💻 Learning React.js and Full Stack Development  
-<br>
-🚀 Building web applications and improving my coding skills  
-<br>
-🌱 Exploring modern technologies and creating projects  
-
-</div>
-
-
-<br>
-
-<div align="center">
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://instagram.com/gadha_u.g">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -56,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=120&section=header&text=💻%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=120&section=header&text=%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
