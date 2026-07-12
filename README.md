@@ -54,13 +54,17 @@
 
 <div align="center">
 
-## 💻 Tech Stack
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=7&theme=dark"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=120&section=header&text=💻%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=Learning%20%7C%20Building%20%7C%20Growing&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=7&theme=dark"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Learning%20%7C%20Building%20%7C%20Growing&fontSize=25&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
