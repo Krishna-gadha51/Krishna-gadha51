@@ -52,39 +52,15 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode,python&perline=7&theme=dark"/>
 
-</div>
-
-
 <br>
 
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=Learning%20%7C%20Building%20%7C%20Growing&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-
-<br>
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-
-</div>
